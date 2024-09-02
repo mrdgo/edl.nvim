@@ -2,7 +2,14 @@
 
 ## Installation
 
-- Lazy: `{ 'mrdgo/edl.nvim', dependencies = { 'nvim-treesitter/nvim-treesitter' }, config = true }`
+```lua
+-- Lazy
+{
+    'mrdgo/edl.nvim',
+    config = true,
+    dependencies = { 'nvim-treesitter/nvim-treesitter' }
+}
+```
 
 ## Features
 
