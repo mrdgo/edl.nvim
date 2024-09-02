@@ -4,6 +4,10 @@
 
 - Lazy: `{ 'mrdgo/edl.nvim', dependencies = { 'nvim-treesitter/nvim-treesitter' }, config = true }`
 
-## Usage
+## Features
 
-Nothing else.
+- Filetype detection
+- Setup treesitter parser
+- Treesitter highlights
+
+for EDL files.
